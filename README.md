@@ -1,8 +1,60 @@
-# React + Vite
+# **React-Based Blockly Editor**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **Overview**
+The **React-Based Blockly Editor** is a visual programming tool that enables users to create JavaScript programs using a **drag-and-drop block interface**. It is designed for beginners and educational purposes, allowing users to build logic visually without writing traditional code. The generated JavaScript can be executed directly in the browser, displaying both the **code output and its execution result**.
 
-Currently, two official plugins are available:
+## **Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **1. Custom Blockly Blocks**
+- **Set Variable Block** – Assign values to variables.
+- **Arithmetic Operations Block** – Perform mathematical calculations.
+- **Print Output Block** – Display results in the browser console.
+- **Conditional Block** – Handle basic if-else logic.
+
+### **2. Interactive Drag-and-Drop Interface**
+- **Smooth and responsive** block-based programming experience.
+
+### **3. Live Code Execution**
+- A **"Run Code" button** executes the generated JavaScript.
+- Displays **both the JavaScript code and its output** dynamically.
+
+### **4. Responsive & User-Friendly UI**
+- Styled with **Tailwind CSS** for a modern and clean interface.
+- Works seamlessly across **different devices and screen sizes**.
+
+### **5. Additional Features**
+- **Reset Button** – Clears the Blockly workspace.
+- **Error Handling** – Displays meaningful error messages.
+- **Code Preview** – Shows the JavaScript equivalent of the blocks.
+
+## **Screenshots**
+📌 *(Attach relevant screenshots showcasing the project UI and Blockly editor in action.)*
+
+## **Live Demo**
+🔗 **Live Project:** [Your Live Project Link]
+
+## **Installation**
+
+To run the project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone [https://github.com/ANURAG-SINGH17/blockly]
+
+# Navigate to the project folder
+cd blockly-editor
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+## **Project Repository & Social Links**
+📌 **GitHub Repository:** [https://github.com/ANURAG-SINGH17/blockly]  
+📌 **LinkedIn Profile:** [https://www.linkedin.com/in/anurag-singh-200001315/]  
+
+---
+
+🚀 **Happy Coding!**
