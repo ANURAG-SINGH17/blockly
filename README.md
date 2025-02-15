@@ -32,7 +32,7 @@ The **React-Based Blockly Editor** is a visual programming tool that enables use
 ![Image](https://github.com/user-attachments/assets/9757395d-e31c-4343-ad84-d17c4d915229)
 
 ## **Live Demo**
-🔗 **Live Project:** [Your Live Project Link]
+🔗 **Live Project:** https://blockly-alpha.vercel.app/
 
 ## **Installation**
 
