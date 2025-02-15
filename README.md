@@ -28,7 +28,8 @@ The **React-Based Blockly Editor** is a visual programming tool that enables use
 - **Code Preview** – Shows the JavaScript equivalent of the blocks.
 
 ## **Screenshots**
-📌 *(Attach relevant screenshots showcasing the project UI and Blockly editor in action.)*
+📌 
+![Image](https://github.com/user-attachments/assets/9757395d-e31c-4343-ad84-d17c4d915229)
 
 ## **Live Demo**
 🔗 **Live Project:** [Your Live Project Link]
